@@ -1,7 +1,7 @@
 
 # **Empresa Buho** 
 ## **Caso-1**: Formulario
-[Ver demo ->](https://chapst1.github.io/buho-form/)
+[Ver demo →](https://1tspahc.github.io/Buho-caso-1/)
 
 ![Primer Diseno](./screenshot/1.png)
 ![Primer Diseno](./screenshot/2.png)
